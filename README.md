@@ -1,2 +1,2 @@
 # Prism-Generator
-generating custom prism
+generating custom prisms with three.js
